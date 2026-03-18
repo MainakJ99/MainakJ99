@@ -4,8 +4,8 @@
 
 **Data Scientist · PGDBA @ IIM Calcutta · IIT Kharagpur · ISI Kolkata**
 
-[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[!\[Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainak-jana-28842218b/)
+[!\[Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mainakjba2027@email.iimcal.ac.in)
 
 
 
@@ -19,9 +19,9 @@ I'm a graduate student in the **PGDBA program** — a joint initiative of IIM Ca
 
 My work focuses on building rigorous, reproducible data science pipelines: from exploratory analysis to production-ready scripts. I care deeply about the *why* behind a model, not just the metric.
 
-* 🔭 Currently working on: **\[Your active project — e.g., quant signal research / NLP pipeline]**
-* 🌱 Learning: **\[e.g., MLOps · Transformer fine-tuning · Causal Inference]**
-* 💬 Ask me about: **\[Your strongest area — e.g., time series / bioinformatics / sports analytics]**
+* 🔭 Currently working on: **\[Your active project — Regression]**
+* 🌱 Learning: **\[Machine Learning, Data Science, Algorithms]**
+* 💬 Ask me about: **\[Mathematics, Probability]**
 
 \---
 
