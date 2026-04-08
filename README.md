@@ -28,8 +28,10 @@ My work focuses on building rigorous, reproducible data science pipelines: from 
 
 | Project | What & Why | Stack |
 |--------|-----------|------|
-| [**Drowsiness Detection System**](https://github.com/MainakJ99/drowsiness-detection) | Real-time driver drowsiness detection using CNN-based eye-state classification with temporal smoothing and fallback detection logic | `Python` `PyTorch` `OpenCV` |
-| [**Fake News Detection**](https://github.com/MainakJ99/fake-news-detection) | NLP-based text classification system for detecting misinformation using classical ML techniques | `Python` `scikit-learn` `NLP` |
+| [**Credit Risk Modelling App**](https://github.com/MainakJ99/Credit-Risk_modelling) | End-to-end ML system predicting credit risk with deployed Streamlit app for real-time inference | `Python` `scikit-learn` `Streamlit` |
+| [**Drowsiness Detection System**](https://github.com/MainakJ99/drowsiness-detection) | Real-time driver drowsiness detection using CNN with temporal smoothing and fallback logic for robustness | `Python` `PyTorch` `OpenCV` |
+| [**Fake News Detection**](https://github.com/MainakJ99/fake-news-detection) | NLP-based classification system to detect misinformation using supervised learning models | `Python` `scikit-learn` `NLP` |
+| [**Customer Segmentation**](https://github.com/MainakJ99/customer-segmentation) | K-Means clustering to identify customer groups for targeted business strategies | `Python` `scikit-learn` `Clustering` |
 
 ---
 
@@ -71,5 +73,7 @@ My work focuses on building rigorous, reproducible data science pipelines: from 
 ---
 
 <div align="center">
-<sub>Focused on building practical ML systems · Clean code · Measurable impact</sub>
+<sub>Building practical ML systems · Focused on real-world impact · Continuous improvement</sub>
 </div>
+
+
