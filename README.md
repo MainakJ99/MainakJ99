@@ -4,26 +4,23 @@
 
 **Data Scientist · PGDBA @ IIM Calcutta · IIT Kharagpur · ISI Kolkata**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainak-jana-28842218b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainak-jana-28842218b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mainakjba2027@email.iimcal.ac.in)
-
 
 </div>
 
-\---
-
+---
 ## 🧭 About Me
 
 I'm a graduate student in the **PGDBA program** — a joint initiative of IIM Calcutta, IIT Kharagpur, and ISI Kolkata — working at the intersection of business strategy, machine learning, and mathematical modelling.
 
 My work focuses on building rigorous, reproducible data science pipelines: from exploratory analysis to production-ready scripts. I care deeply about the *why* behind a model, not just the metric.
 
-* 🔭 Currently working on: **\[Your active project — Regression]**
-* 🌱 Learning: **\[Machine Learning, Data Science, Algorithms]**
-* 💬 Ask me about: **\[Mathematics, Probability]**
+- 🔭 Currently working on: **Regression**
+- 🌱 Learning: **Machine Learning, Data Science, Algorithms**
+- 💬 Ask me about: **Mathematics, Probability**
 
 ---
-
 ## 📌 Featured Projects
 
 | Project | What & Why | Stack |
@@ -31,7 +28,7 @@ My work focuses on building rigorous, reproducible data science pipelines: from 
 | [**Credit Risk Modelling App**](https://github.com/MainakJ99/Credit-Risk_modelling) | End-to-end ML system predicting credit risk with deployed Streamlit app for real-time inference | `Python` `scikit-learn` `Streamlit` |
 | [**Drowsiness Detection System**](https://github.com/MainakJ99/drowsiness-detection) | Real-time driver drowsiness detection using CNN with temporal smoothing and fallback logic for robustness | `Python` `PyTorch` `OpenCV` |
 | [**Fake News Detection**](https://github.com/MainakJ99/fake-news-detection) | NLP-based classification system to detect misinformation using supervised learning models | `Python` `scikit-learn` `NLP` |
-| [**Customer Segmentation**](https://github.com/MainakJ99/customer-segmentation) | K-Means clustering to identify customer groups for targeted business strategies | `Python` `scikit-learn` `Clustering` |
+| [**Movie Recommender System**](https://github.com/MainakJ99/movielens-svd-recommender) | Collaborative filtering on MovieLens 32M via truncated SVD, with a Streamlit app for real-time, taste-based recommendations | `Python` `SVD` `Streamlit` |
 
 ---
 
@@ -75,5 +72,3 @@ My work focuses on building rigorous, reproducible data science pipelines: from 
 <div align="center">
 <sub>Building practical ML systems · Focused on real-world impact · Continuous improvement</sub>
 </div>
-
-
